@@ -8,8 +8,7 @@
 
 </head>
 
-<body bgcolor="FF99FF">
-
+<body >
 
 
 <h1>นางสาวปภัสสร แสงเลิศล้ำ</h1>
