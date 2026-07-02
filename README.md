@@ -2,7 +2,7 @@
 
 <html>
 
-<head>
+</head>
 
     <title>Portfolio papasson</title>
 
